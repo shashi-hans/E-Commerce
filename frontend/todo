@@ -1,0 +1,21 @@
+SHOPPING APP
+
+Home/ Item page
+register page
+customer login  
+    profile page
+    Search list page
+    Cart page ( item-list = item-edit + item-delete )
+    Edit-item page
+    Payment page
+administrator page
+    customer list page
+    add-items
+    item-list
+    edit-items
+    delete-items
+
+navigation
+    login
+    home/ items
+    cart(item list)
